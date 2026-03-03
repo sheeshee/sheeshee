@@ -1,5 +1,10 @@
-I'm interested in scientific computing, data analysis/visualisation, web apps and robotics!
-I post all of my coding work here so feel free to take a browse (just be warned, there's a few things I haven't
-had a chance to tidy up yet!)
+# About Me
 
-Feel free to reach out and say hi :smile:
+- chases shiny things
+- likes burritos
+- wants to be good at piano but doesn't practice
+- currently employed to write Python Django
+
+:fr: :uk: :wales: :us:
+
+I occasionally  post links to things I've been doing on https://sheeshee.net

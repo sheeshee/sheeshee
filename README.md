@@ -7,4 +7,4 @@
 
 :fr: :uk: :wales: :us:
 
-I occasionally  post links to things I've been doing on https://sheeshee.net
+I occasionally post on https://sheeshee.net links to things I've been doing

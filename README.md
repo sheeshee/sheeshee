@@ -3,7 +3,7 @@
 - chases shiny things
 - likes burritos
 - wants to be good at piano but doesn't practice
-- currently employed to write Python Django
+- have worked a lot with Python Django, but now I'm paid to write TypeScript
 
 :fr: :uk: :wales: :us:
 
